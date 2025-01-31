@@ -30,7 +30,7 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
     align="left" 
     alt="C"
     title="C" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"         
 />
