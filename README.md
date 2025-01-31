@@ -1,6 +1,6 @@
 # 👨‍💻 Diogo Augusto Silvério Nascimento
 
-
+**'Estudante de Engenharia de Computação'** 
 
 Atualmente no quarto período do curso de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR) Campus Apucarana, possui habilidades sólidas em programação, análise de sistemas e resolução de problemas. Ao longo de sua formação, participou ativamente de projetos de extensão, aplicando seus conhecimentos teóricos em situações práticas, como no desenvolvimento de um Chatbot para micro e pequenas empresas, além de ministrar aulas de programação básica e Arduino para o Grupo Escoteiro Dom Bosco. Entre suas competências, destacam-se habilidades avançadas em linguagens de programação como C, C++ e C#, Java, Python, SQ e Assembly. Possui familiaridade com ferramentas de desenvolvimento e sistemas operacionais como Linux, Windows e Arduino.
 Também possui certificações pela Cisco Networking Academy em Introdução à IoT, pela Via Certa Educação Profissional em Informática e Tecnologia, e pela Oracle Academy no curso de Java Fundamentals. Proativo e colaborativo, busca constantemente aprimorar suas habilidades técnicas e interpessoais.
