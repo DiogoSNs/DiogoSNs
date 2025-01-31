@@ -28,11 +28,11 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"         
 />
 <img 
     align="left" 
