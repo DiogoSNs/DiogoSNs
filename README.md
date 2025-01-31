@@ -38,7 +38,7 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
     align="left" 
     alt="C++" 
     title="C++"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
@@ -46,7 +46,7 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
     align="left" 
     alt="C SHARP" 
     title="C SHARP"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
@@ -54,7 +54,7 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
     align="left" 
     alt="PYTHON"
     title="PYTHON" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -62,7 +62,7 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -70,7 +70,7 @@ Também possui certificações pela Cisco Networking Academy em Introdução à 
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
