@@ -29,7 +29,7 @@ Sou proativo e colaborativo, buscando constantemente aprimorar minhas habilidade
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <!-- Linguagens de Programação -->
 <img align="left" alt="C" title="C" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
