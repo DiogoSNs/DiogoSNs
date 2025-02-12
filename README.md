@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%E2%98%85+Welcome+to+my+profile!+%E2%98%85" alt="Typing SVG" /></a>
+
 # 👨‍💻 Diogo Augusto Silvério Nascimento
 
 **Estudante de Engenharia de Computação** 
