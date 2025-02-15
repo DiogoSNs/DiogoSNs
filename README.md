@@ -52,8 +52,8 @@ Sou proativo e colaborativo, buscando constantemente aprimorar minhas habilidade
 
 <div>
   <a href="https://github.com/DiogoSNs">
-  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSNs&layout=compact&langs_count=7&theme=monokai"/>
-  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=DiogoSNs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSNs&layout=compact&langs_count=7&theme=moltack"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=DiogoSNs&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 </div>
 
 
