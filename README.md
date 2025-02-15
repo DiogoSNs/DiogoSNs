@@ -50,23 +50,12 @@ Sou proativo e colaborativo, buscando constantemente aprimorar minhas habilidade
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=DiogoSNs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=0" 
-/>
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSNs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=0" 
-/>
+<div>
+  <a href="https://github.com/DiogoSNs">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSNs&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoSNs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
-</p>
 
 
