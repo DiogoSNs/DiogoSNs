@@ -64,12 +64,7 @@ Sou proativo e colaborativo, buscando constantemente aprimorar minhas habilidade
 ### 📞 Contatos 
 
 <div>
-<a href="https://www.linkedin.com/in/diogo-nascimento-0378542ba/" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a href="https://www.instagram.com/diogo_sns/" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/diogo-nascimento-0378542ba/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/diogo_sns/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div> 
 
