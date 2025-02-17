@@ -33,6 +33,10 @@ Sou proativo e colaborativo, buscando constantemente aprimorar minhas habilidade
     </a>
 </p>
 
+![GitHub stars](https://img.shields.io/github/stars/DiogoSNs?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/DiogoSNs?style=for-the-badge)
+
+
 ---
 
 ### 🖥️ Linguagens e Tecnologias
