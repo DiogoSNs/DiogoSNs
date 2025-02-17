@@ -21,14 +21,14 @@ Sou proativo e colaborativo, buscando constantemente aprimorar minhas habilidade
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/DiogoSNs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=✦ Estrelas"
+            src="https://img.shields.io/github/stars/DiogoSNs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=★ Estrelas"
         />
     </a>
     <a href="https://github.com/DiogoSNs?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/DiogoSNs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=★ Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/DiogoSNs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label= Seguidores&logoColor=white"
         />
     </a>
 </p>
