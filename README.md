@@ -51,7 +51,7 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
 
 <br/><br/>
 
-<p></p>
+<br></br>
 
 
 ### 📊 Estatísticas
