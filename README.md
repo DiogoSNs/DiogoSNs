@@ -8,7 +8,7 @@
 
 **Estudante de Engenharia de Computação** 
 
-Atualmente, estou no quarto período do curso de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR) Campus Apucarana e possuo habilidades sólidas em programação, análise de sistemas e resolução de problemas. Ao longo da minha formação, participei ativamente de projetos de extensão, aplicando meus conhecimentos teóricos em situações práticas, como no desenvolvimento de um Chatbot para micro e pequenas empresas, além de ministrar aulas de programação básica e Arduino para o Grupo Escoteiro Dom Bosco.
+Atualmente, estou no quarto período do curso de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR) e possuo habilidades sólidas em programação, análise de sistemas e resolução de problemas. Ao longo da minha formação, participei ativamente de projetos de extensão, aplicando meus conhecimentos teóricos em situações práticas, como no desenvolvimento de um Chatbot para micro e pequenas empresas, além de ministrar aulas de programação básica e Arduino para o Grupo Escoteiro Dom Bosco.
 
 Entre minhas competências, destaco habilidades em linguagens de programação como C, C#, Java, Python, SQL, Assembly, HTML, CSS e JavaScript. Tenho familiaridade com ferramentas de desenvolvimento e sistemas operacionais como Linux, Windows e Arduino, além de experiência com edição de áudio e vídeo.
 
