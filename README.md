@@ -69,7 +69,7 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
 
 ### 📂 Portfólio
 
-[![Portfolio](https://img.shields.io/badge/Meu_Portfolio-Clique_Aqui-blue)]([https://seuportfolio.com)](https://diogosns.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Meu_Portfolio-Clique_Aqui-blue)]([https://seuportfolio.com)]
 ---
 
 ### 📊 Estatísticas
