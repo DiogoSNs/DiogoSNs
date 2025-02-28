@@ -12,7 +12,7 @@ Atualmente, estou no quarto período do curso de Engenharia de Computação na U
 
 Entre minhas competências, destaco habilidades em linguagens de programação como C, C#, Java, Python, SQL, Assembly, HTML, CSS e JavaScript. Tenho familiaridade com ferramentas de desenvolvimento e sistemas operacionais como Linux, Windows e Arduino, além de experiência com edição de áudio e vídeo.
 
-Também possuo certificações pela Cisco Networking Academy em Introdução à IoT, pela Via Certa Educação Profissional em Informática e Tecnologia, e pela Oracle Academy no curso de Java Fundamentals.
+Também possuo certificações pela Cisco Networking Academy em Introdução à IoT, freeCodeCamp em Responsive Web Design, pela Via Certa Educação Profissional em Informática e Tecnologia, e pela Oracle Academy no curso de Java Fundamentals.
 
 Estou em busca de uma oportunidade profissional que me permita adquirir experiência na área, aprimorar meus conhecimentos e contribuir para o meu desenvolvimento no mercado de trabalho.
 Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habilidades técnicas e interpessoais.
