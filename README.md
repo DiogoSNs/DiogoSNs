@@ -34,7 +34,9 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
     </a>
 </p>
 
+### 📂 Portfólio
 
+[![Portfolio](https://img.shields.io/badge/Meu_Portfolio-Clique_Aqui-blue)]([https://seuportfolio.com)
 
 ---
 
@@ -65,11 +67,6 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
 <br></br>
 <br></br>
 
----
-
-### 📂 Portfólio
-
-[![Portfolio](https://img.shields.io/badge/Meu_Portfolio-Clique_Aqui-blue)]([https://seuportfolio.com)
 ---
 
 ### 📊 Estatísticas
