@@ -72,25 +72,6 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/DiogoSNs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoSNs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F70000&icon_color=F70000&text_color=C9D1D9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSNs&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=C9D1D9"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DiogoSNs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoSNs&theme=radical&hide_border=true&background=0D1117&ring=F70000&fire=F70000&currStreakLabel=F70000" alt="GitHub Streak Stats"/>
-  </a>
-</div>
-
-<br/>
-
----
-
 ### 📞 Contatos 
 
 <div align="center">
