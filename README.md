@@ -19,23 +19,6 @@ Também possuo certificações pela Cisco Networking Academy em Introdução à 
 🎯 **Estou em busca de oportunidades de estágio** que me permitam adquirir experiência prática, aprimorar meus conhecimentos e contribuir para o meu desenvolvimento profissional.
 Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habilidades técnicas e interpessoais.
 
-<p align="left">
-    <a href="https://github.com/DiogoSNs?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DiogoSNs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DiogoSNs?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DiogoSNs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 📂 Portfólio
