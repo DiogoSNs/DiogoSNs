@@ -19,10 +19,6 @@ Também possuo certificações pela Cisco Networking Academy em Introdução à 
 🎯 **Estou em busca de oportunidades de estágio** que me permitam adquirir experiência prática, aprimorar meus conhecimentos e contribuir para o meu desenvolvimento profissional.
 Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habilidades técnicas e interpessoais.
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=DiogoSNs&color=F70000&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views counter"/>
-</div>
-
 ---
 
 ### 📂 Portfólio
