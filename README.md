@@ -81,12 +81,6 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
   <a href="https://www.instagram.com/diogo_sns/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:diogoaugustosilverio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/DiogoSNs">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </div> 
 
 <br/>
