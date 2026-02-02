@@ -85,6 +85,6 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
 <!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=bye!&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
