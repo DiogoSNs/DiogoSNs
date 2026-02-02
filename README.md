@@ -78,10 +78,6 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
