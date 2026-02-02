@@ -1,10 +1,17 @@
+<!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Diogo%20Nascimento&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Computer%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=%E2%98%85+Welcome+to+my+profile!+%E2%98%85" alt="Typing SVG" />
   </a>
 </p>
 
-# 👨‍💻 Diogo Augusto Silvério Nascimento
+# 👨‍💻 Sobre mim
 
 **Estudante de Engenharia de Computação** 
 
@@ -61,6 +68,9 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
   <a href="https://www.linkedin.com/in/diogo-nascimento-0378542ba/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  <a href="mailto:diogoaugustosilverio@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   <a href="https://www.instagram.com/diogo_sns/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -72,3 +82,9 @@ Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habi
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
