@@ -21,7 +21,7 @@ Ao longo da minha formação, participei ativamente de projetos de extensão e p
 
 Entre minhas competências, destaco habilidades em linguagens de programação como C, Java, Python, SQL, Assembly, HTML, CSS e JavaScript. Tenho familiaridade com ferramentas de desenvolvimento e sistemas operacionais como Linux, Windows e Arduino, além de experiência com edição de áudio e vídeo.
 
-Também possuo certificações pela Cisco Networking Academy em Introdução à IoT, freeCodeCamp em Responsive Web Design, pela Via Certa Educação Profissional em Informática e Tecnologia, e pela Oracle Academy no curso de Java Fundamentals.
+Também possuo certificações em Introdução à IoT e Network Defense (Cisco Networking Academy), Responsive Web Design (freeCodeCamp), Java Fundamentals (Oracle Academy) e Informática e Tecnologia (Via Certa Educação Profissional)
 
 🎯 **Estou em busca de oportunidades de estágio** que me permitam adquirir experiência prática, aprimorar meus conhecimentos e contribuir para o meu desenvolvimento profissional.
 Sou proativo e colaborativo, com foco no aprimoramento contínuo das minhas habilidades técnicas e interpessoais.
